@@ -1,0 +1,2 @@
+# survivor-alfa
+Amplify configuration
